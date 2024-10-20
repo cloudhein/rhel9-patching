@@ -6,8 +6,8 @@
     rh_advisories: ''
     rh_cves: ''
     packages: ''
-    check_reboot: true
-    reboot_confirmation: true
+    #check_reboot: true
+    #reboot_confirmation: true
   tasks:
   #vars:
   #  reboot_confirmation: true
